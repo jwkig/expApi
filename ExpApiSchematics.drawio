@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T12:32:45.604Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="joJzTa1USRXJuUpB1QLl" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-19T11:08:22.429Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="lvUfTu6g4tFtAJ9OWQCY" version="14.2.4" type="github">
   <diagram id="ampolG_5GsY7RyZEAxuc" name="Page-1">
     <mxGraphModel dx="3956" dy="2291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -267,7 +267,7 @@
             <mxPoint x="1140" y="-137" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6xk-dBPFCgzjhm5DXFw_-43" value="&lt;h1&gt;Илья нарисует схему&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;1. Читаем процесс&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;2. получаем порядок выполнения callback&lt;/div&gt;&lt;div&gt;3. ит.д.&lt;/div&gt;&lt;div&gt;4.&lt;/div&gt;&lt;div&gt;5.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="6xk-dBPFCgzjhm5DXFw_-43" value="&lt;h1&gt;Илья нарисует схему&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;1. Читаем процесс&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;2. получаем порядок выполнения callback&lt;/div&gt;&lt;div&gt;3. ит.д.&lt;/div&gt;&lt;div&gt;4.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-890" y="-505" width="320" height="360" as="geometry" />
         </mxCell>
       </root>
