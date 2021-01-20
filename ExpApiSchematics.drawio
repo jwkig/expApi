@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-20T11:36:37.521Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="C2PkASEUnoC6kHytI56V" version="14.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-20T11:45:48.128Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="4Mc9r4wgZ5O3b65RpFte" version="14.2.5" type="github">
   <diagram id="ampolG_5GsY7RyZEAxuc" name="Page-1">
     <mxGraphModel dx="4069" dy="3112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -540,7 +540,7 @@
           <mxGeometry x="-2010" y="-1138" width="1130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3lgOOLcY4nh7JQliI2cl-18" value="Процесс витрины" style="rounded=1;arcSize=10;dashed=1;strokeColor=#000000;fillColor=none;gradientColor=none;strokeWidth=1;align=left;verticalAlign=top;fontColor=#FF0000;fontSize=13;" vertex="1" parent="3lgOOLcY4nh7JQliI2cl-17">
-          <mxGeometry x="701" y="4" width="400" height="110" as="geometry" />
+          <mxGeometry x="610" y="4" width="491" height="110" as="geometry" />
         </mxCell>
         <mxCell id="3lgOOLcY4nh7JQliI2cl-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3lgOOLcY4nh7JQliI2cl-17" source="3lgOOLcY4nh7JQliI2cl-20" target="3lgOOLcY4nh7JQliI2cl-44">
           <mxGeometry relative="1" as="geometry" />
@@ -577,9 +577,6 @@
             <mxPoint x="400" y="60" as="sourcePoint" />
             <mxPoint x="-1730" y="-1081" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="3lgOOLcY4nh7JQliI2cl-64" value="Запуск Процесса" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#b85450;" vertex="1" parent="3lgOOLcY4nh7JQliI2cl-17">
-          <mxGeometry x="600" y="30" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3lgOOLcY4nh7JQliI2cl-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" source="3lgOOLcY4nh7JQliI2cl-22" target="3lgOOLcY4nh7JQliI2cl-2" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -687,6 +684,17 @@
         <mxCell id="3lgOOLcY4nh7JQliI2cl-63" value="GET&amp;nbsp;&lt;br&gt;(получение списка ПП)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3lgOOLcY4nh7JQliI2cl-62">
           <mxGeometry x="0.2853" relative="1" as="geometry">
             <mxPoint y="-42.69" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lgOOLcY4nh7JQliI2cl-65" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1360" y="-400" as="sourcePoint" />
+            <mxPoint x="-1369" y="-1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lgOOLcY4nh7JQliI2cl-66" value="Callback&lt;br&gt;()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3lgOOLcY4nh7JQliI2cl-65">
+          <mxGeometry x="-0.1443" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
