@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-20T12:06:48.126Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Blw-dU3LdFcmow1TAO0I" version="14.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-21T11:05:10.111Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="sbj78zzEe7yQdWx-GIPN" version="14.2.5" type="github">
   <diagram id="ampolG_5GsY7RyZEAxuc" name="Page-1">
-    <mxGraphModel dx="4069" dy="3112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3248" dy="2693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -564,7 +564,7 @@
           <mxGeometry x="206" y="76" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="3lgOOLcY4nh7JQliI2cl-25" value="Выполнение шага процесса получение списка ПП" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="3lgOOLcY4nh7JQliI2cl-17">
-          <mxGeometry x="721" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="29" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3lgOOLcY4nh7JQliI2cl-26" value="Получение результата и отображение" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="3lgOOLcY4nh7JQliI2cl-17">
           <mxGeometry x="968" y="30" width="120" height="60" as="geometry" />
@@ -678,7 +678,7 @@
         <mxCell id="3lgOOLcY4nh7JQliI2cl-62" value="" style="endArrow=classic;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3lgOOLcY4nh7JQliI2cl-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1340" y="-830" as="sourcePoint" />
-            <mxPoint x="-1259" y="-860" as="targetPoint" />
+            <mxPoint x="-1310" y="-860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3lgOOLcY4nh7JQliI2cl-63" value="GET&amp;nbsp;&lt;br&gt;(получение списка ПП)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3lgOOLcY4nh7JQliI2cl-62">
@@ -696,9 +696,6 @@
           <mxGeometry x="-0.1443" y="-2" relative="1" as="geometry">
             <mxPoint x="-2.57" y="20.01" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="3lgOOLcY4nh7JQliI2cl-67" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1340" y="-950" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3lgOOLcY4nh7JQliI2cl-69" value="&lt;font color=&quot;#ff3333&quot;&gt;Предусмотреть создание корзины после выбора одного из ПП&lt;/font&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1230" y="-1189" width="240" height="20" as="geometry" />
