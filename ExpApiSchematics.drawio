@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-22T11:26:02.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="6Gklk2ppl3ab59MGT5CW" version="14.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-22T11:35:49.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="u9ADOUG9g74m1WCbVNd4" version="14.2.5" type="github" pages="2">
   <diagram id="ampolG_5GsY7RyZEAxuc" name="Page-1">
-    <mxGraphModel dx="4783" dy="3460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3402" dy="2787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,11 +10,11 @@
         <mxCell id="3lgOOLcY4nh7JQliI2cl-18" value="Процесс витрины" style="rounded=1;arcSize=10;dashed=1;strokeColor=#000000;fillColor=none;gradientColor=none;strokeWidth=1;align=left;verticalAlign=top;fontColor=#FF0000;fontSize=13;" parent="3lgOOLcY4nh7JQliI2cl-52" vertex="1">
           <mxGeometry x="400" y="-115" width="1190" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="7CwtNrb2YRD0Z08rC34O-2" value="выбор ПП" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#d6b656;fillColor=#fff2cc;" parent="3lgOOLcY4nh7JQliI2cl-52" vertex="1">
-          <mxGeometry x="1280" y="-91" width="120" height="60" as="geometry" />
+        <mxCell id="7CwtNrb2YRD0Z08rC34O-2" value="Выбор ПП" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#d6b656;fillColor=#fff2cc;" parent="3lgOOLcY4nh7JQliI2cl-52" vertex="1">
+          <mxGeometry x="1130" y="-91" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7CwtNrb2YRD0Z08rC34O-4" value="выбор ПП" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#d6b656;fillColor=#fff2cc;" parent="3lgOOLcY4nh7JQliI2cl-52" vertex="1">
-          <mxGeometry x="1450" y="-90" width="120" height="60" as="geometry" />
+          <mxGeometry x="1300" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3lgOOLcY4nh7JQliI2cl-37" value="Process register" style="swimlane;startSize=41;horizontal=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-2140" y="-860" width="1610" height="150" as="geometry" />
@@ -31,8 +31,10 @@
         <mxCell id="3lgOOLcY4nh7JQliI2cl-17" value="Витрина" style="swimlane;startSize=41;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="-2140" y="-1278" width="1610" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="3lgOOLcY4nh7JQliI2cl-103" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="3lgOOLcY4nh7JQliI2cl-17" source="3lgOOLcY4nh7JQliI2cl-44" target="3lgOOLcY4nh7JQliI2cl-25" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="3lgOOLcY4nh7JQliI2cl-103" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="3lgOOLcY4nh7JQliI2cl-17" source="3lgOOLcY4nh7JQliI2cl-44" target="3lgOOLcY4nh7JQliI2cl-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="59" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="3lgOOLcY4nh7JQliI2cl-44" value="Подписка на список Callback из соответствующих TaskFlow" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#b85450;" parent="3lgOOLcY4nh7JQliI2cl-17" vertex="1">
           <mxGeometry x="420" y="29" width="120" height="60" as="geometry" />
@@ -49,14 +51,8 @@
         <mxCell id="3lgOOLcY4nh7JQliI2cl-24" value="" style="shape=mxgraph.bpmn.user_task;html=1;outlineConnect=0;" parent="3lgOOLcY4nh7JQliI2cl-17" vertex="1">
           <mxGeometry x="336" y="75" width="14" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="3lgOOLcY4nh7JQliI2cl-115" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="3lgOOLcY4nh7JQliI2cl-17" source="3lgOOLcY4nh7JQliI2cl-25" target="3lgOOLcY4nh7JQliI2cl-26" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3lgOOLcY4nh7JQliI2cl-25" value="ожидание получение результата по подписке" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="3lgOOLcY4nh7JQliI2cl-17" vertex="1">
-          <mxGeometry x="940" y="29" width="110" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="3lgOOLcY4nh7JQliI2cl-26" value="Получение результата и отображение" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="3lgOOLcY4nh7JQliI2cl-17" vertex="1">
-          <mxGeometry x="1090" y="29" width="120" height="60" as="geometry" />
+          <mxGeometry x="940" y="29" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3lgOOLcY4nh7JQliI2cl-82" value="Преконфигурация (дизайн страниц с контролами)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#FFB366;" parent="3lgOOLcY4nh7JQliI2cl-17" vertex="1">
           <mxGeometry x="70" y="29" width="120" height="60" as="geometry" />
@@ -554,7 +550,7 @@
         <mxCell id="3lgOOLcY4nh7JQliI2cl-3" value="" style="shape=mxgraph.bpmn.service_task;html=1;outlineConnect=0;" parent="3lgOOLcY4nh7JQliI2cl-1" vertex="1">
           <mxGeometry x="696" y="76" width="14" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="3lgOOLcY4nh7JQliI2cl-4" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=10;fontColor=#FF0000;" parent="3lgOOLcY4nh7JQliI2cl-1" source="3lgOOLcY4nh7JQliI2cl-5" edge="1">
+        <mxCell id="3lgOOLcY4nh7JQliI2cl-4" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=10;fontColor=#FF0000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="3lgOOLcY4nh7JQliI2cl-1" source="3lgOOLcY4nh7JQliI2cl-5" edge="1" target="3lgOOLcY4nh7JQliI2cl-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="940" y="60" as="targetPoint" />
           </mxGeometry>
@@ -563,7 +559,7 @@
           <mxGeometry x="760" y="30" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3lgOOLcY4nh7JQliI2cl-10" value="Получение данных через API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="3lgOOLcY4nh7JQliI2cl-1" vertex="1">
-          <mxGeometry x="1090" y="29" width="120" height="60" as="geometry" />
+          <mxGeometry x="940" y="29" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3lgOOLcY4nh7JQliI2cl-49" value="Регистрация подписок&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#b85450;" parent="3lgOOLcY4nh7JQliI2cl-1" vertex="1">
           <mxGeometry x="420" y="30" width="120" height="60" as="geometry" />
@@ -592,16 +588,10 @@
             <mxPoint x="600" y="-96" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3lgOOLcY4nh7JQliI2cl-111" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="3lgOOLcY4nh7JQliI2cl-1" source="3lgOOLcY4nh7JQliI2cl-110" target="3lgOOLcY4nh7JQliI2cl-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3lgOOLcY4nh7JQliI2cl-110" value="Обработка шага процесса&amp;nbsp;&lt;br&gt;(получение списка ПП)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="3lgOOLcY4nh7JQliI2cl-1" vertex="1">
-          <mxGeometry x="940" y="30" width="110" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="3lgOOLcY4nh7JQliI2cl-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="3lgOOLcY4nh7JQliI2cl-10" target="3lgOOLcY4nh7JQliI2cl-26" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-990.29" y="-1141.0000000000002" as="sourcePoint" />
-            <mxPoint x="-990.29" y="-1201.0000000000002" as="targetPoint" />
+            <mxPoint x="-1140.29" y="-1141.0000000000002" as="sourcePoint" />
+            <mxPoint x="-1140.29" y="-1201.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3lgOOLcY4nh7JQliI2cl-32" value="Callback&lt;br&gt;(список ПП)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=10;" parent="3lgOOLcY4nh7JQliI2cl-31" vertex="1" connectable="0">
@@ -647,20 +637,9 @@
             <mxPoint x="-1664" y="-1004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3lgOOLcY4nh7JQliI2cl-48" value="SignalR &lt;br&gt;Subscribe&lt;br&gt;(для Front)&lt;br&gt;Register Listner&lt;br&gt;(для Backend)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=10;" parent="3lgOOLcY4nh7JQliI2cl-47" vertex="1" connectable="0">
+        <mxCell id="3lgOOLcY4nh7JQliI2cl-48" value="&lt;br&gt;Register Listner&lt;br&gt;(для Backend)&lt;br&gt;&amp;nbsp;и данные для не &lt;br&gt;интерактивных шагов&lt;br&gt;(channel_id, region_id, etc.)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=10;" parent="3lgOOLcY4nh7JQliI2cl-47" vertex="1" connectable="0">
           <mxGeometry x="-0.2048" y="1" relative="1" as="geometry">
             <mxPoint x="-1" y="-8.21" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3lgOOLcY4nh7JQliI2cl-65" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="1" source="3lgOOLcY4nh7JQliI2cl-110" target="3lgOOLcY4nh7JQliI2cl-25" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1169" y="-1050" as="sourcePoint" />
-            <mxPoint x="-1343" y="-1187" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3lgOOLcY4nh7JQliI2cl-101" value="Callback&amp;nbsp;&lt;br&gt;(получение &lt;br&gt;параметров &lt;br&gt;запроса &lt;br&gt;списка ПП)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3lgOOLcY4nh7JQliI2cl-65" vertex="1" connectable="0">
-          <mxGeometry x="0.433" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3lgOOLcY4nh7JQliI2cl-87" value="Покупатель" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;fillColor=#000000;" parent="1" vertex="1">
@@ -706,7 +685,7 @@
           <mxGeometry x="-2140" y="-586" width="1610" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3lgOOLcY4nh7JQliI2cl-100" value="GetProductOffering" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="3lgOOLcY4nh7JQliI2cl-99" vertex="1">
-          <mxGeometry x="1090" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="940" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3lgOOLcY4nh7JQliI2cl-112" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="3lgOOLcY4nh7JQliI2cl-10" target="3lgOOLcY4nh7JQliI2cl-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -732,6 +711,12 @@
         </mxCell>
         <mxCell id="3lgOOLcY4nh7JQliI2cl-114" value="Пользователь указывает регион&lt;br&gt;пока без региона&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-2310" y="-1320" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qAqipHLvHaXVsFbVDz8m-1" value="Покупатель" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1020" y="-1380" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qAqipHLvHaXVsFbVDz8m-2" value="Пользователь выбирает ПП из списка&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-970" y="-1380" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
