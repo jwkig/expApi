@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-22T11:35:49.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="u9ADOUG9g74m1WCbVNd4" version="14.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-22T11:40:22.546Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="cM9ufuumIF1XyttO3Hc6" version="14.2.5" type="github" pages="2">
   <diagram id="ampolG_5GsY7RyZEAxuc" name="Page-1">
     <mxGraphModel dx="3402" dy="2787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -628,7 +628,7 @@
             <mxPoint x="-2.05" y="3.789999999999999" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3lgOOLcY4nh7JQliI2cl-43" value="&lt;div&gt;&lt;span&gt;1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Данные:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;ProcessFlow - содержит список шагов (TaskFlow)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;TaskFlow - шаг процесса (в контексте процесса витрины содержатся только &quot;интерактивные&quot; шаги)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;TaskFlow в контексте витрины - это список необходимых callback + описание формата входных и выходных данных&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="3lgOOLcY4nh7JQliI2cl-43" value="&lt;div&gt;&lt;span&gt;Данные:&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;ProcessFlow - содержит список шагов (TaskFlow)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;TaskFlow - шаг процесса (в контексте процесса витрины содержатся только &quot;интерактивные&quot; шаги)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;TaskFlow в контексте витрины - это список необходимых callback + описание формата входных и выходных данных&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-2130" y="-1520" width="340" height="130" as="geometry" />
         </mxCell>
         <mxCell id="3lgOOLcY4nh7JQliI2cl-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
