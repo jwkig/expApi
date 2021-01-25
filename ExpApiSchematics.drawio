@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T11:00:48.171Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.345" etag="l9tJZpSX4tBoUyxqa6Xf" version="14.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-25T11:15:56.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.345" etag="1vOQDKFUvtjrGvXLuEH1" version="14.2.4" type="github" pages="2">
   <diagram id="ampolG_5GsY7RyZEAxuc" name="Page-1">
-    <mxGraphModel dx="4166" dy="3275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3174" dy="2713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,14 +22,14 @@
         <mxCell id="3lgOOLcY4nh7JQliI2cl-37" value="Process register" style="swimlane;startSize=41;horizontal=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-2140" y="-860" width="1610" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="3lgOOLcY4nh7JQliI2cl-11" value="WF процесс исполнения  - конфигурирование корзины " style="rounded=1;arcSize=10;dashed=1;strokeColor=#000000;fillColor=none;gradientColor=none;strokeWidth=1;align=left;verticalAlign=top;fontColor=#FF0000;fontSize=13;" parent="3lgOOLcY4nh7JQliI2cl-37" vertex="1">
+        <mxCell id="3lgOOLcY4nh7JQliI2cl-11" value="WF процесс исполнения  - конфигурирование корзины (Process Task) " style="rounded=1;arcSize=10;dashed=1;strokeColor=#000000;fillColor=none;gradientColor=none;strokeWidth=1;align=left;verticalAlign=top;fontColor=#FF0000;fontSize=13;" parent="3lgOOLcY4nh7JQliI2cl-37" vertex="1">
           <mxGeometry x="400" y="-170" width="1170" height="155" as="geometry" />
         </mxCell>
         <mxCell id="3lgOOLcY4nh7JQliI2cl-16" value="выбор API из реестра" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="3lgOOLcY4nh7JQliI2cl-37" vertex="1">
           <mxGeometry x="750" y="66" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3lgOOLcY4nh7JQliI2cl-12" value="выбор процесса из реестра" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="3lgOOLcY4nh7JQliI2cl-37" vertex="1">
-          <mxGeometry x="570" y="66" width="120" height="60" as="geometry" />
+          <mxGeometry x="579" y="66" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WP0imsZewuefQ5bBW2uw-1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="3lgOOLcY4nh7JQliI2cl-37" source="WP0imsZewuefQ5bBW2uw-10" target="WP0imsZewuefQ5bBW2uw-7" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -86,6 +86,9 @@
         </mxCell>
         <mxCell id="WP0imsZewuefQ5bBW2uw-10" value="Создание корзины" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="3lgOOLcY4nh7JQliI2cl-37" vertex="1">
           <mxGeometry x="1130" y="-145" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8du9Shdw4cpLJU6nhYkG-12" value="" style="shape=mxgraph.bpmn.service_task;html=1;outlineConnect=0;" vertex="1" parent="3lgOOLcY4nh7JQliI2cl-37">
+          <mxGeometry x="696" y="-29" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="3lgOOLcY4nh7JQliI2cl-17" value="Витрина" style="swimlane;startSize=41;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="-2140" y="-1278" width="1610" height="118" as="geometry" />
@@ -397,12 +400,6 @@
         <mxCell id="3lgOOLcY4nh7JQliI2cl-1" value="event-driven CX &#xa;(ExMan или CEM)" style="swimlane;startSize=41;horizontal=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-2140" y="-1034" width="1610" height="174" as="geometry" />
         </mxCell>
-        <mxCell id="3lgOOLcY4nh7JQliI2cl-92" value="Создание экземпляра ProseccFlow и переход на первый Task" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#b85450;" parent="3lgOOLcY4nh7JQliI2cl-1" vertex="1">
-          <mxGeometry x="570" y="29" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3lgOOLcY4nh7JQliI2cl-3" value="" style="shape=mxgraph.bpmn.service_task;html=1;outlineConnect=0;" parent="3lgOOLcY4nh7JQliI2cl-1" vertex="1">
-          <mxGeometry x="696" y="29" width="14" height="14" as="geometry" />
-        </mxCell>
         <mxCell id="3lgOOLcY4nh7JQliI2cl-4" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=10;fontColor=#FF0000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="3lgOOLcY4nh7JQliI2cl-1" source="3lgOOLcY4nh7JQliI2cl-5" target="3lgOOLcY4nh7JQliI2cl-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="940" y="60" as="targetPoint" />
@@ -416,30 +413,6 @@
         </mxCell>
         <mxCell id="3lgOOLcY4nh7JQliI2cl-49" value="Регистрация подписок&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#b85450;" parent="3lgOOLcY4nh7JQliI2cl-1" vertex="1">
           <mxGeometry x="420" y="29" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3lgOOLcY4nh7JQliI2cl-93" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="3lgOOLcY4nh7JQliI2cl-1" source="3lgOOLcY4nh7JQliI2cl-49" target="3lgOOLcY4nh7JQliI2cl-92" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="550" y="-6" as="sourcePoint" />
-            <mxPoint x="600" y="-56" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3lgOOLcY4nh7JQliI2cl-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="3lgOOLcY4nh7JQliI2cl-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="90" as="sourcePoint" />
-            <mxPoint x="600" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3lgOOLcY4nh7JQliI2cl-15" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="3lgOOLcY4nh7JQliI2cl-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="240" as="sourcePoint" />
-            <mxPoint x="660" y="90" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3lgOOLcY4nh7JQliI2cl-97" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="3lgOOLcY4nh7JQliI2cl-1" source="3lgOOLcY4nh7JQliI2cl-92" target="3lgOOLcY4nh7JQliI2cl-5" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="550" y="-46" as="sourcePoint" />
-            <mxPoint x="600" y="-96" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="WmLkj7Jy5HLzKdstQBMT-1" value="" style="shape=mxgraph.bpmn.service_task;html=1;outlineConnect=0;" vertex="1" parent="3lgOOLcY4nh7JQliI2cl-1">
           <mxGeometry x="1236" y="75" width="14" height="14" as="geometry" />
@@ -631,6 +604,33 @@
         </mxCell>
         <mxCell id="8du9Shdw4cpLJU6nhYkG-6" value="" style="shape=mxgraph.bpmn.service_task;html=1;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-780" y="-1360" width="30" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="3lgOOLcY4nh7JQliI2cl-93" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3lgOOLcY4nh7JQliI2cl-49" target="8du9Shdw4cpLJU6nhYkG-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1590" y="-1040" as="sourcePoint" />
+            <mxPoint x="-1540" y="-1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lgOOLcY4nh7JQliI2cl-97" value="" style="endArrow=classic;html=1;exitX=0.993;exitY=0.474;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitPerimeter=0;" parent="1" source="8du9Shdw4cpLJU6nhYkG-11" target="3lgOOLcY4nh7JQliI2cl-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1590" y="-1080" as="sourcePoint" />
+            <mxPoint x="-1540" y="-1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8du9Shdw4cpLJU6nhYkG-11" value="&lt;span style=&quot;font-size: 12px&quot;&gt;Создание экземпляра ProseccFlow и переход на первый Task&lt;/span&gt;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fontSize=13;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="-1005" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3lgOOLcY4nh7JQliI2cl-15" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.773;exitY=0.006;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" edge="1" target="8du9Shdw4cpLJU6nhYkG-11" source="3lgOOLcY4nh7JQliI2cl-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1480" y="-794" as="sourcePoint" />
+            <mxPoint x="-1480" y="-944" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lgOOLcY4nh7JQliI2cl-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="3lgOOLcY4nh7JQliI2cl-12" source="8du9Shdw4cpLJU6nhYkG-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1540" y="-944" as="sourcePoint" />
+            <mxPoint x="-1540" y="-794" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
