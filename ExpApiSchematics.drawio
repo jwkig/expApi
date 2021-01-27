@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T14:00:10.754Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.345" etag="iGgUOHf79hCNbDowyfI4" version="14.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-27T14:16:17.546Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.345" etag="PfZPKYVOpeB3rFHmqh9F" version="14.2.7" type="github" pages="2">
   <diagram id="ampolG_5GsY7RyZEAxuc" name="Page-1">
     <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -691,7 +691,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iJ6OxR7j7sa4gDi_aJnS" name="Page-2">
-    <mxGraphModel dx="2828" dy="1814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2147" dy="1444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="cVfscOrz7G8zu3GAqfnT-0" />
         <mxCell id="cVfscOrz7G8zu3GAqfnT-1" parent="cVfscOrz7G8zu3GAqfnT-0" />
@@ -702,21 +702,21 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1BfcuHra3ahUJdFJC7cD-40" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font face=&quot;opensans, helvetica, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 12px ; background-color: rgb(0 , 0 , 0)&quot;&gt;&lt;font color=&quot;#ffff00&quot;&gt;POST &lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt;/listener/topicCreateEvent&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;exitX=-0.031;exitY=0.263;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1" source="1BfcuHra3ahUJdFJC7cD-71" target="CCDnBALdhrsGgY3Hv_Wq-13">
+        <mxCell id="1BfcuHra3ahUJdFJC7cD-40" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font face=&quot;opensans, helvetica, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 12px ; background-color: rgb(0 , 0 , 0)&quot;&gt;&lt;font color=&quot;#ffff00&quot;&gt;POST &lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt;/listener/topicCreateEvent&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=1.036;entryY=0.872;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1" target="CCDnBALdhrsGgY3Hv_Wq-45">
           <mxGeometry x="0.0028" relative="1" as="geometry">
-            <mxPoint x="930" y="740" as="sourcePoint" />
-            <mxPoint x="-670" y="690" as="targetPoint" />
+            <mxPoint x="-600.5" y="788" as="sourcePoint" />
+            <mxPoint x="-981.5" y="788" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1BfcuHra3ahUJdFJC7cD-43" value="Обработка статуса заказа\корзины" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-979.9999999999995" y="748" as="sourcePoint" />
+            <mxPoint x="-980.8399999999996" y="810" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-954" y="748" />
-              <mxPoint x="-954" y="777" />
+              <mxPoint x="-954.84" y="810" />
+              <mxPoint x="-954.84" y="839" />
             </Array>
-            <mxPoint x="-974.9999999999995" y="777.0000000000005" as="targetPoint" />
+            <mxPoint x="-975.8399999999996" y="839.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CCDnBALdhrsGgY3Hv_Wq-13" value="Витрина" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#FFE599;" vertex="1" parent="cVfscOrz7G8zu3GAqfnT-1">
