@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T11:57:57.093Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.345" etag="c1iEURFeM4CoOZ9FAuX6" version="14.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-28T12:06:27.211Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.345" etag="oy_WqGrMhm0meFqkryKp" version="14.2.7" type="github" pages="2">
   <diagram id="ampolG_5GsY7RyZEAxuc" name="Page-1">
     <mxGraphModel dx="4274" dy="3344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -694,7 +694,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iJ6OxR7j7sa4gDi_aJnS" name="Page-2">
-    <mxGraphModel dx="4215" dy="4944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6137" dy="6022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="cVfscOrz7G8zu3GAqfnT-0" />
         <mxCell id="cVfscOrz7G8zu3GAqfnT-1" parent="cVfscOrz7G8zu3GAqfnT-0" />
@@ -1240,7 +1240,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-27" value="Change taskStatus = inProgress for &lt;br&gt;taskName&amp;nbsp; = CreateOrder&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;fontColor=#000000;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1">
+        <mxCell id="Cnt2iavA0SB10wUw3N_R-27" value="Change taskStatus = inProgress for &lt;br&gt;taskName&amp;nbsp; = GetOffer" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;fontColor=#000000;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1">
           <mxGeometry x="0.0166" y="10" relative="1" as="geometry">
             <mxPoint x="375" y="-1536" as="sourcePoint" />
             <Array as="points">
@@ -1379,11 +1379,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-15" value="&lt;font color=&quot;#ffff00&quot;&gt;&amp;nbsp;POST &lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt;Event Order Information&lt;/font&gt;&lt;font color=&quot;#ffff00&quot;&gt;&amp;nbsp;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;fontColor=#000000;labelBackgroundColor=#000000;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1">
+        <mxCell id="Cnt2iavA0SB10wUw3N_R-15" value="" style="html=1;verticalAlign=bottom;endArrow=block;fontColor=#000000;labelBackgroundColor=#000000;exitX=1.004;exitY=0.221;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1" source="Cnt2iavA0SB10wUw3N_R-105" target="Cnt2iavA0SB10wUw3N_R-16">
           <mxGeometry x="0.054" width="80" relative="1" as="geometry">
             <mxPoint x="20" y="-1504" as="sourcePoint" />
             <mxPoint x="399.49999999999955" y="-1504" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cnt2iavA0SB10wUw3N_R-113" value="выполнение Task" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Cnt2iavA0SB10wUw3N_R-15">
+          <mxGeometry x="-0.2482" y="-1" relative="1" as="geometry">
+            <mxPoint x="24.13" y="-15.63" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Cnt2iavA0SB10wUw3N_R-105" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=#000000;fillColor=#FFE599;fontColor=#000000;" vertex="1" parent="cVfscOrz7G8zu3GAqfnT-1">
