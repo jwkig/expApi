@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T11:19:28.268Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.345" etag="mTb4cIxuxPRJPSMeEMbX" version="14.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-28T11:57:27.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.345" etag="bocvbtDM7P99W-1QcbSi" version="14.2.7" type="github" pages="2">
   <diagram id="ampolG_5GsY7RyZEAxuc" name="Page-1">
     <mxGraphModel dx="4274" dy="3344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -694,7 +694,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iJ6OxR7j7sa4gDi_aJnS" name="Page-2">
-    <mxGraphModel dx="3447" dy="4513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4215" dy="4944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="cVfscOrz7G8zu3GAqfnT-0" />
         <mxCell id="cVfscOrz7G8zu3GAqfnT-1" parent="cVfscOrz7G8zu3GAqfnT-0" />
@@ -1151,34 +1151,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-0" value="&lt;span style=&quot;font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;&lt;font color=&quot;#ffff00&quot;&gt;POST &lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;/topic&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;/:topicId&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;/event(order{orderItems}, priority,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;event-type=new-order, session ID, TaskName&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;)&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1">
+        <mxCell id="Cnt2iavA0SB10wUw3N_R-0" value="&lt;span style=&quot;font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;&lt;font color=&quot;#ffff00&quot;&gt;POST &lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;/topic&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;/:topicId&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;/channel, priority,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;event-type=getOffer, session ID, TaskName&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;)&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1" source="Cnt2iavA0SB10wUw3N_R-3">
           <mxGeometry x="0.0028" relative="1" as="geometry">
             <mxPoint x="-832.833333333333" y="-1752" as="sourcePoint" />
-            <mxPoint x="-451" y="-1752" as="targetPoint" />
+            <mxPoint x="-690" y="-1752" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-1" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font face=&quot;opensans, helvetica, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 12px ; background-color: rgb(0 , 0 , 0)&quot;&gt;&lt;font color=&quot;#ffff00&quot;&gt;POST &lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt;/listener/topicCreateEvent&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=1.036;entryY=0.872;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1" target="Cnt2iavA0SB10wUw3N_R-5">
-          <mxGeometry x="0.0028" relative="1" as="geometry">
-            <mxPoint x="-450.5000000000009" y="-1222" as="sourcePoint" />
-            <mxPoint x="-831.5" y="-1222" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-2" value="Обработка статуса заказа\корзины" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-830.8399999999992" y="-1200" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="-804.84" y="-1200" />
-              <mxPoint x="-804.84" y="-1171" />
-            </Array>
-            <mxPoint x="-825.8399999999992" y="-1171" as="targetPoint" />
+        <mxCell id="Cnt2iavA0SB10wUw3N_R-80" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Витрина запрашивает список ПП&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="Cnt2iavA0SB10wUw3N_R-0">
+          <mxGeometry x="0.7043" y="-3" relative="1" as="geometry">
+            <mxPoint x="-142.17" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Cnt2iavA0SB10wUw3N_R-3" value="Витрина" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#FFE599;" vertex="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry x="-880" y="-1970" width="100" height="1670" as="geometry" />
+          <mxGeometry x="-1257" y="-1970" width="100" height="1670" as="geometry" />
         </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-4" value="Add product Offering&lt;br&gt;&amp;nbsp;to New Order&lt;br&gt;(PO has been selected by Customer)" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" edge="1" parent="Cnt2iavA0SB10wUw3N_R-3">
+        <mxCell id="Cnt2iavA0SB10wUw3N_R-4" value="Get Offers &lt;br&gt;(Push the button)" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" edge="1" parent="Cnt2iavA0SB10wUw3N_R-3">
           <mxGeometry x="-0.0345" relative="1" as="geometry">
             <mxPoint x="-170" y="206" as="sourcePoint" />
             <mxPoint x="45" y="206" as="targetPoint" />
@@ -1195,56 +1183,22 @@
           <mxGeometry x="-60" y="-1970" width="100" height="1670" as="geometry" />
         </mxCell>
         <mxCell id="Cnt2iavA0SB10wUw3N_R-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=#000000;fillColor=#FFE599;" vertex="1" parent="Cnt2iavA0SB10wUw3N_R-7">
-          <mxGeometry x="45" y="278" width="10" height="20" as="geometry" />
+          <mxGeometry x="45" y="353" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-9" value="Обработка &lt;br&gt;очереди, приоритезация и т.д." style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Cnt2iavA0SB10wUw3N_R-7" target="Cnt2iavA0SB10wUw3N_R-8">
+        <mxCell id="Cnt2iavA0SB10wUw3N_R-9" value="Читаем из Cache канал продаж" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Cnt2iavA0SB10wUw3N_R-7" target="Cnt2iavA0SB10wUw3N_R-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="50" y="258" as="sourcePoint" />
+            <mxPoint x="50" y="333" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="75" y="258" />
-              <mxPoint x="75" y="287" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=#000000;fontColor=#000000;fillColor=#FFE599;" vertex="1" parent="Cnt2iavA0SB10wUw3N_R-7">
-          <mxGeometry x="45" y="328" width="10" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-11" value="Передача сообщения &lt;br&gt;в ProcessFlow &lt;br&gt;с соответствующим &lt;br&gt;sessionID" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;fontColor=#000000;" edge="1" parent="Cnt2iavA0SB10wUw3N_R-7" target="Cnt2iavA0SB10wUw3N_R-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="50" y="308" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="75" y="308" />
-              <mxPoint x="75" y="348" />
+              <mxPoint x="75" y="333" />
+              <mxPoint x="75" y="362" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Cnt2iavA0SB10wUw3N_R-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=#000000;fillColor=#FFE599;fontColor=#000000;" vertex="1" parent="Cnt2iavA0SB10wUw3N_R-7">
-          <mxGeometry x="45" y="488" width="10" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=#000000;fontColor=#000000;fillColor=#FFE599;" vertex="1" parent="Cnt2iavA0SB10wUw3N_R-7">
-          <mxGeometry x="45" y="800" width="10" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-14" value="Передача сообщения &lt;br&gt;в ProcessFlow &lt;br&gt;с соответствующим &lt;br&gt;sessionID" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;fontColor=#000000;" edge="1" parent="Cnt2iavA0SB10wUw3N_R-7" target="Cnt2iavA0SB10wUw3N_R-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="50" y="780" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="75" y="780" />
-              <mxPoint x="75" y="820" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-15" value="&lt;font color=&quot;#ffff00&quot;&gt;&amp;nbsp;POST &lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt;Event Order Information&lt;/font&gt;&lt;font color=&quot;#ffff00&quot;&gt;&amp;nbsp;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;fontColor=#000000;labelBackgroundColor=#000000;" edge="1" parent="Cnt2iavA0SB10wUw3N_R-7">
-          <mxGeometry x="0.054" width="80" relative="1" as="geometry">
-            <mxPoint x="50" y="371" as="sourcePoint" />
-            <mxPoint x="429.49999999999955" y="371" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
+          <mxGeometry x="45" y="521" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Cnt2iavA0SB10wUw3N_R-16" value="BIE: Process Flow" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#00FF00;" vertex="1" parent="cVfscOrz7G8zu3GAqfnT-1">
           <mxGeometry x="320" y="-1970" width="100" height="1650" as="geometry" />
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=#000000;fillColor=#FFE599;fontColor=#000000;" vertex="1" parent="Cnt2iavA0SB10wUw3N_R-16">
-          <mxGeometry x="46" y="840" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Cnt2iavA0SB10wUw3N_R-18" value="SubscribeToOrder" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1" source="Cnt2iavA0SB10wUw3N_R-7" target="Cnt2iavA0SB10wUw3N_R-6">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -1267,23 +1221,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Cnt2iavA0SB10wUw3N_R-20" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=message;strokeColor=#000000;fillColor=#FFE599;" vertex="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry x="-810" y="-1770" width="20" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-21" value="&lt;span style=&quot;font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;&lt;font color=&quot;#00ff00&quot;&gt;GET &lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;/topic/:topicId/event?&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;fields=&amp;lt;string&amp;gt;&amp;amp;offset=&amp;lt;integer&amp;gt;&amp;amp;limit=&amp;lt;integer&amp;gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.491;entryY=0.253;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry x="0.0028" relative="1" as="geometry">
-            <mxPoint x="-10.50000000000091" y="-1738.0500000000002" as="sourcePoint" />
-            <mxPoint x="-450.90000000000055" y="-1738.0500000000002" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-22" value="&lt;span&gt;Для приоритезации очереди, могут быть созданы различные TOPIC для Hi Priority запросов и для Low Priority&amp;nbsp;&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=#666666;fillColor=#f5f5f5;size=170;position=0.75;position2=0.23;fontColor=#333333;" vertex="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry x="-740" y="-2050" width="183" height="240" as="geometry" />
+          <mxGeometry x="-1190" y="-1771" width="20" height="18" as="geometry" />
         </mxCell>
         <mxCell id="Cnt2iavA0SB10wUw3N_R-23" value="MPC&lt;br&gt;Microservice" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#FFE599;" vertex="1" parent="cVfscOrz7G8zu3GAqfnT-1">
           <mxGeometry x="690" y="-1970" width="100" height="1660" as="geometry" />
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-24" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=#000000;fillColor=#FFE599;fontColor=#000000;" vertex="1" parent="Cnt2iavA0SB10wUw3N_R-23">
-          <mxGeometry x="45" y="598" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cnt2iavA0SB10wUw3N_R-25" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=#000000;fillColor=#FFE599;fontColor=#000000;" vertex="1" parent="cVfscOrz7G8zu3GAqfnT-1">
           <mxGeometry x="365" y="-1589" width="10" height="187" as="geometry" />
@@ -1314,21 +1255,6 @@
         <mxCell id="Cnt2iavA0SB10wUw3N_R-28" value="MPC" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#FFE599;" vertex="1" parent="cVfscOrz7G8zu3GAqfnT-1">
           <mxGeometry x="1120" y="-1970" width="100" height="1670" as="geometry" />
         </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=#000000;fillColor=#FFE599;fontColor=#000000;" vertex="1" parent="Cnt2iavA0SB10wUw3N_R-28">
-          <mxGeometry x="45" y="608" width="10" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-30" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=#000000;fillColor=#FFE599;fontColor=#000000;" vertex="1" parent="Cnt2iavA0SB10wUw3N_R-28">
-          <mxGeometry x="45" y="680" width="10" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-31" value="Hub send event to listener" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontColor=#000000;" edge="1" parent="Cnt2iavA0SB10wUw3N_R-28" source="Cnt2iavA0SB10wUw3N_R-28" target="Cnt2iavA0SB10wUw3N_R-30">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="50" y="720" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="75" y="660" />
-              <mxPoint x="75" y="680" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Cnt2iavA0SB10wUw3N_R-32" value="SubscribeToAPIRequest" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1" target="Cnt2iavA0SB10wUw3N_R-6">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="741" y="-1850" as="sourcePoint" />
@@ -1339,195 +1265,37 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-33" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=1;exitY=0.95;fontColor=#000000;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1" source="Cnt2iavA0SB10wUw3N_R-12" target="Cnt2iavA0SB10wUw3N_R-25">
+        <mxCell id="Cnt2iavA0SB10wUw3N_R-33" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=1;exitY=0.95;fontColor=#000000;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1" source="Cnt2iavA0SB10wUw3N_R-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="357" y="-1426" as="targetPoint" />
+            <mxPoint x="365" y="-1420.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Cnt2iavA0SB10wUw3N_R-34" value="Create event to Mango API" style="html=1;verticalAlign=bottom;endArrow=block;entryX=1;entryY=0;fontColor=#000000;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1" target="Cnt2iavA0SB10wUw3N_R-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="369.4999999999991" y="-1482" as="sourcePoint" />
+            <mxPoint x="369.4999999999991" y="-1449" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Cnt2iavA0SB10wUw3N_R-35" value="Execute&amp;nbsp;taskName&amp;nbsp; = CreateOrder&lt;br&gt;Post order&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;fontColor=#000000;exitX=0.995;exitY=0.083;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1">
           <mxGeometry x="0.0166" y="10" relative="1" as="geometry">
-            <mxPoint x="375" y="-1500" as="sourcePoint" />
+            <mxPoint x="375" y="-1467" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="410" y="-1500" />
-              <mxPoint x="410" y="-1483" />
-              <mxPoint x="375" y="-1483" />
+              <mxPoint x="410" y="-1467" />
+              <mxPoint x="410" y="-1450" />
+              <mxPoint x="375" y="-1450" />
             </Array>
-            <mxPoint x="375" y="-1483" as="targetPoint" />
+            <mxPoint x="375" y="-1450" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Cnt2iavA0SB10wUw3N_R-36" value="&lt;span style=&quot;font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;&lt;font color=&quot;#ffff33&quot;&gt;POST&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt; /topic&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;/:topicId&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;/event(new order{orderItems}, priority,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;event-type=new-order, session ID, TaskName&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;)&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1" source="Cnt2iavA0SB10wUw3N_R-12">
           <mxGeometry x="0.0028" relative="1" as="geometry">
-            <mxPoint x="-820.5" y="-1742.0000000000005" as="sourcePoint" />
-            <mxPoint x="-452.8333333333321" y="-1467" as="targetPoint" />
+            <mxPoint x="-820.5" y="-1709.0000000000005" as="sourcePoint" />
+            <mxPoint x="-452.8333333333321" y="-1434" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Cnt2iavA0SB10wUw3N_R-37" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=message;strokeColor=#000000;fillColor=#FFE599;" vertex="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry x="-50" y="-1492" width="20" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-38" value="&lt;span style=&quot;font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;&lt;font color=&quot;#00ff00&quot;&gt;GET &lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;/topic/:topicId/event?&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;fields=&amp;lt;string&amp;gt;&amp;amp;offset=&amp;lt;integer&amp;gt;&amp;amp;limit=&amp;lt;integer&amp;gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry x="0.0028" relative="1" as="geometry">
-            <mxPoint x="740.3999999999996" y="-1372" as="sourcePoint" />
-            <mxPoint x="-452.8333333333321" y="-1372.000000000001" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-39" value="&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;/api/v2.0/ordermanagement/productOrder&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;fontColor=#000000;exitX=0.993;exitY=0.169;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1" source="Cnt2iavA0SB10wUw3N_R-24" target="Cnt2iavA0SB10wUw3N_R-29">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="750" y="-1362" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-40" value="&lt;span style=&quot;background-color: rgb(40 , 40 , 40)&quot;&gt;&lt;font color=&quot;#969696&quot; face=&quot;OpenSans, Helvetica, Arial, sans-serif&quot;&gt;Status 202 Accepted&lt;/font&gt;&lt;font color=&quot;#969696&quot; face=&quot;OpenSans, Helvetica, Arial, sans-serif&quot;&gt;&amp;nbsp; {OperationResult}&lt;/font&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;fontColor=#000000;entryX=0.982;entryY=0.795;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1" source="Cnt2iavA0SB10wUw3N_R-29" target="Cnt2iavA0SB10wUw3N_R-24">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="750" y="-1324" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-41" value="Modify Order" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry x="-0.0345" relative="1" as="geometry">
-            <mxPoint x="-1050" y="-1031" as="sourcePoint" />
-            <mxPoint x="-835" y="-1031" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-42" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=#000000;fillColor=#FFE599;" vertex="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry x="-835" y="-1041" width="10" height="550" as="geometry" />
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-43" value="&lt;span style=&quot;font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;&lt;font color=&quot;#ffff00&quot;&gt;POST &lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;/topic&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;/:topicId&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;/event(order{&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;orderId&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;,orderItems}, priority,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;event-type=&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;order-amended&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;, session ID, TaskName&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;)&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry x="0.0028" relative="1" as="geometry">
-            <mxPoint x="-824.9996551724144" y="-1017.3400000000001" as="sourcePoint" />
-            <mxPoint x="-445.8100000000004" y="-1017.3400000000001" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-44" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=message;strokeColor=#000000;fillColor=#FFE599;" vertex="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry x="-804.81" y="-1035.34" width="20" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-45" value="&lt;span style=&quot;font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;&lt;font color=&quot;#00ff00&quot;&gt;GET &lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;/topic/:topicId/event?&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;fields=&amp;lt;string&amp;gt;&amp;amp;offset=&amp;lt;integer&amp;gt;&amp;amp;limit=&amp;lt;integer&amp;gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry x="0.0028" relative="1" as="geometry">
-            <mxPoint x="-830.5" y="-560.9499999999998" as="sourcePoint" />
-            <mxPoint x="1170.500000000001" y="-560.9499999999998" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-46" value="Обработка статуса заказа\корзины" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-828.9999999999991" y="-531.9499999999998" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="-803" y="-531.95" />
-              <mxPoint x="-803" y="-502.95000000000005" />
-            </Array>
-            <mxPoint x="-823.9999999999991" y="-502.9499999999998" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-47" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=#000000;fillColor=#FFE599;" vertex="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry x="-14" y="-961.95" width="10" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-48" value="Обработка &lt;br&gt;очереди, приоритезация и т.д." style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1" target="Cnt2iavA0SB10wUw3N_R-47">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-9" y="-981.9499999999998" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="16" y="-981.95" />
-              <mxPoint x="16" y="-952.95" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-49" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=#000000;fontColor=#000000;fillColor=#FFE599;" vertex="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry x="-14" y="-911.95" width="10" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-50" value="Передача сообщения &lt;br&gt;в ProcessFlow &lt;br&gt;с соответствующим &lt;br&gt;sessionID" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;fontColor=#000000;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1" target="Cnt2iavA0SB10wUw3N_R-49">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-9" y="-931.9499999999998" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="16" y="-931.95" />
-              <mxPoint x="16" y="-891.95" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-51" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=#000000;fillColor=#FFE599;fontColor=#000000;" vertex="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry x="-14" y="-751.95" width="10" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-52" value="&lt;span style=&quot;font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;&lt;font color=&quot;#00ff00&quot;&gt;GET &lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;/topic/:topicId/event?&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;fields=&amp;lt;string&amp;gt;&amp;amp;offset=&amp;lt;integer&amp;gt;&amp;amp;limit=&amp;lt;integer&amp;gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.491;entryY=0.253;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry x="0.0028" relative="1" as="geometry">
-            <mxPoint x="-9.5" y="-1008" as="sourcePoint" />
-            <mxPoint x="-449.89999999999964" y="-1008" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-53" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=#000000;fillColor=#FFE599;fontColor=#000000;" vertex="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry x="736" y="-641.95" width="10" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-54" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=#000000;fillColor=#FFE599;fontColor=#000000;" vertex="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry x="366" y="-858.95" width="10" height="187" as="geometry" />
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-55" value="Change taskStatus = inProgress for &lt;br&gt;taskName&amp;nbsp; = ModifyOrder&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;fontColor=#000000;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry x="0.0166" y="10" relative="1" as="geometry">
-            <mxPoint x="376" y="-831.9499999999998" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="411" y="-831.95" />
-              <mxPoint x="411" y="-811.95" />
-              <mxPoint x="376" y="-811.95" />
-            </Array>
-            <mxPoint x="376" y="-811.9499999999998" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-56" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=#000000;fillColor=#FFE599;fontColor=#000000;" vertex="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry x="1166" y="-631.95" width="10" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-57" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=1;exitY=0.95;fontColor=#000000;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1" source="Cnt2iavA0SB10wUw3N_R-51" target="Cnt2iavA0SB10wUw3N_R-54">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="358" y="-695.95" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-58" value="Create event to Mango API" style="html=1;verticalAlign=bottom;endArrow=block;entryX=1;entryY=0;fontColor=#000000;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1" target="Cnt2iavA0SB10wUw3N_R-51">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370.5" y="-751.9499999999998" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-59" value="Execute&amp;nbsp;taskName&amp;nbsp; = ModifyOrder&lt;br&gt;Post order&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;fontColor=#000000;exitX=0.995;exitY=0.083;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry x="0.0166" y="10" relative="1" as="geometry">
-            <mxPoint x="376" y="-769.9499999999998" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="411" y="-769.95" />
-              <mxPoint x="411" y="-752.95" />
-              <mxPoint x="376" y="-752.95" />
-            </Array>
-            <mxPoint x="376" y="-752.9499999999998" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-60" value="&lt;span style=&quot;font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;&lt;font color=&quot;#ffff33&quot;&gt;POST&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt; /topic&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;/:topicId&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;/event(new order{orderItems}, priority,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;event-type=new-order, session ID, TaskName&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;)&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1" source="Cnt2iavA0SB10wUw3N_R-51">
-          <mxGeometry x="0.0028" relative="1" as="geometry">
-            <mxPoint x="-819.5" y="-1011.9500000000005" as="sourcePoint" />
-            <mxPoint x="-451" y="-736.9499999999998" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-61" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=message;strokeColor=#000000;fillColor=#FFE599;" vertex="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry x="-49" y="-761.95" width="20" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-62" value="&lt;span style=&quot;font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;&lt;font color=&quot;#00ff00&quot;&gt;GET &lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;/topic/:topicId/event?&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;fields=&amp;lt;string&amp;gt;&amp;amp;offset=&amp;lt;integer&amp;gt;&amp;amp;limit=&amp;lt;integer&amp;gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry x="0.0028" relative="1" as="geometry">
-            <mxPoint x="741.3999999999996" y="-641.9500000000007" as="sourcePoint" />
-            <mxPoint x="-451" y="-641.9500000000007" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-63" value="&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;/api/v2.0/ordermanagement/productOrder&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;fontColor=#000000;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1" target="Cnt2iavA0SB10wUw3N_R-56">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="739" y="-631.9499999999998" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-64" value="&lt;span style=&quot;background-color: rgb(40 , 40 , 40)&quot;&gt;&lt;font color=&quot;#969696&quot; face=&quot;OpenSans, Helvetica, Arial, sans-serif&quot;&gt;Status 202 Accepted&lt;/font&gt;&lt;font color=&quot;#969696&quot; face=&quot;OpenSans, Helvetica, Arial, sans-serif&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;fontColor=#000000;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1" source="Cnt2iavA0SB10wUw3N_R-56">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="739" y="-593.9499999999998" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="-50" y="-1459" width="20" height="18" as="geometry" />
         </mxCell>
         <mxCell id="Cnt2iavA0SB10wUw3N_R-65" value="SubscrubeToOperationResult" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1">
           <mxGeometry x="0.0031" width="80" relative="1" as="geometry">
@@ -1536,26 +1304,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-66" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font face=&quot;opensans, helvetica, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 12px ; background-color: rgb(0 , 0 , 0)&quot;&gt;&lt;font color=&quot;#ffff00&quot;&gt;POST &lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt;/listener/topicCreateEvent&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.932;entryY=0.256;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.08;exitY=0.892;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1" source="Cnt2iavA0SB10wUw3N_R-30" target="Cnt2iavA0SB10wUw3N_R-67">
-          <mxGeometry x="0.0028" relative="1" as="geometry">
-            <mxPoint x="1160" y="-1254" as="sourcePoint" />
-            <mxPoint x="740" y="-1254" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-67" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=#000000;fillColor=#FFE599;fontColor=#000000;" vertex="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry x="736" y="-1270" width="10" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-68" value="&lt;span style=&quot;font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;&lt;font color=&quot;#ffff33&quot;&gt;POST&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt; /topic&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;/:topicId&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;/event(new order{orderItems}, priority,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;event-type=new-order, session ID, TaskName&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;)&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1" target="Cnt2iavA0SB10wUw3N_R-6">
-          <mxGeometry x="0.0028" relative="1" as="geometry">
-            <mxPoint x="736" y="-1235" as="sourcePoint" />
-            <mxPoint x="298.16666666666697" y="-1235" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-69" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=message;strokeColor=#000000;fillColor=#FFE599;" vertex="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry x="701" y="-1260" width="20" height="18" as="geometry" />
-        </mxCell>
         <mxCell id="Cnt2iavA0SB10wUw3N_R-70" value="SubscrubeToOperationResult" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1">
           <mxGeometry x="0.0031" width="80" relative="1" as="geometry">
             <mxPoint x="-448.66666666666697" y="-1811.67" as="sourcePoint" />
@@ -1563,49 +1311,111 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-71" value="&lt;span style=&quot;font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;&lt;font color=&quot;#00ff00&quot;&gt;GET &lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;/topic/:topicId/event?&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;fields=&amp;lt;string&amp;gt;&amp;amp;offset=&amp;lt;integer&amp;gt;&amp;amp;limit=&amp;lt;integer&amp;gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.491;entryY=0.253;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry x="0.0028" relative="1" as="geometry">
-            <mxPoint x="-12" y="-1208" as="sourcePoint" />
-            <mxPoint x="-452.39999999999964" y="-1208" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Cnt2iavA0SB10wUw3N_R-72" value="Не очень понимаю, как передавать данные внутри" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=#666666;fillColor=#f5f5f5;size=50;position=0.27;position2=0;fontColor=#333333;" vertex="1" parent="cVfscOrz7G8zu3GAqfnT-1">
           <mxGeometry x="210" y="-1750" width="100" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-73" value="&lt;font color=&quot;#ffff00&quot;&gt;&amp;nbsp;POST &lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt;Event&lt;/font&gt;&lt;font color=&quot;#ffff00&quot;&gt;&amp;nbsp; &lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt;OperationStatus&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;fontColor=#000000;labelBackgroundColor=#000000;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry x="0.054" width="80" relative="1" as="geometry">
-            <mxPoint x="-13.5" y="-1120" as="sourcePoint" />
-            <mxPoint x="366" y="-1120" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-74" value="TaskName = create Order" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry x="-180" y="-1645" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-75" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry x="-80" y="-1643" width="20" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-76" value="TaskName = create Order.updateStatus" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry x="-160" y="-1160" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-77" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry x="-60" y="-1158" width="20" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="Cnt2iavA0SB10wUw3N_R-78" value="Change taskStatus = Close for &lt;br&gt;taskName&amp;nbsp; = CreateOrder&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;fontColor=#000000;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1">
-          <mxGeometry x="0.0166" y="10" relative="1" as="geometry">
-            <mxPoint x="376" y="-1110" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="411" y="-1110" />
-              <mxPoint x="411" y="-1090" />
-              <mxPoint x="376" y="-1090" />
-            </Array>
-            <mxPoint x="376" y="-1090" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Cnt2iavA0SB10wUw3N_R-79" value="&lt;h1 style=&quot;font-size: 16px;&quot;&gt;Взаимодействие обменом с MPC&lt;/h1&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;&lt;/p&gt;&lt;ol style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Сценарий первичной загрузки ПП.&lt;/span&gt;&lt;/li&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Пререквизиты:&lt;/b&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;на стороне MPC должен поддерживаться Operation on Export Job&lt;/li&gt;&lt;/ul&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Процесс&lt;/b&gt;:&lt;/li&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;На стороне BIE нужно инициировать запрос СОБЫТИЕ POST (пока ежедневный) на создание job на стороне MPC на выгрузку списка ПП принадлежащих определенному каналу продаж.&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;На стороне MPC нужно поддержать формирование требуемого списка ПП и передать в процесс Export Job&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;На стороне Витрины, нужно подписаться на очередь BIE, который будет возвращать список продуктовых ПП.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Сценарий обновления информации по ПП по событию от MPC&lt;/span&gt;&lt;/li&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Пререквизиты:&lt;/b&gt;&amp;nbsp;&lt;/li&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;API notification&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Процесс&lt;/b&gt;:&lt;/li&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;На стороне MPC нужно поднять Hub&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;На стороне витрины нужно поднять listner&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;Витрина должны подписаться на события изменения характеристик и цен ПП&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/ol&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;" vertex="1" parent="cVfscOrz7G8zu3GAqfnT-1">
           <mxGeometry x="-300" y="-2440" width="1264" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="Cnt2iavA0SB10wUw3N_R-88" value="&lt;span style=&quot;font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;&lt;font color=&quot;#ffff00&quot;&gt;POST &lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;/topic&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;/:topicId&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;/channel, priority,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;event-type=getOffer, session ID, TaskName&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;)&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1" source="Cnt2iavA0SB10wUw3N_R-90">
+          <mxGeometry x="0.0028" relative="1" as="geometry">
+            <mxPoint x="-600" y="-1700" as="sourcePoint" />
+            <mxPoint x="-460" y="-1700" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cnt2iavA0SB10wUw3N_R-89" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Витрина запрашивает список ПП&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="Cnt2iavA0SB10wUw3N_R-88">
+          <mxGeometry x="0.7043" y="-3" relative="1" as="geometry">
+            <mxPoint x="-142.17" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cnt2iavA0SB10wUw3N_R-90" value="Event HUB" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#FFE599;" vertex="1" parent="cVfscOrz7G8zu3GAqfnT-1">
+          <mxGeometry x="-864" y="-1970" width="100" height="1660" as="geometry" />
+        </mxCell>
+        <mxCell id="Cnt2iavA0SB10wUw3N_R-95" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=16;" vertex="1" parent="Cnt2iavA0SB10wUw3N_R-90">
+          <mxGeometry x="45" y="237" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cnt2iavA0SB10wUw3N_R-96" value="&lt;span style=&quot;font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; background-color: rgb(40 , 40 , 40)&quot;&gt;&lt;font color=&quot;#00ff00&quot;&gt;GET&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; background-color: rgb(40 , 40 , 40)&quot;&gt;/topic/:topicId/event&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=16;" edge="1" target="Cnt2iavA0SB10wUw3N_R-95" parent="Cnt2iavA0SB10wUw3N_R-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="217" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="75" y="217" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cnt2iavA0SB10wUw3N_R-108" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=16;" vertex="1" parent="Cnt2iavA0SB10wUw3N_R-90">
+          <mxGeometry x="45" y="390" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cnt2iavA0SB10wUw3N_R-109" value="&lt;span style=&quot;font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; background-color: rgb(40 , 40 , 40)&quot;&gt;&lt;font color=&quot;#00ff00&quot;&gt;GET&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; background-color: rgb(40 , 40 , 40)&quot;&gt;/topic/:topicId/event&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=16;" edge="1" parent="Cnt2iavA0SB10wUw3N_R-90" target="Cnt2iavA0SB10wUw3N_R-108">
+          <mxGeometry x="1" y="10" relative="1" as="geometry">
+            <mxPoint x="50" y="370" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="24" y="370" />
+              <mxPoint x="24" y="390" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cnt2iavA0SB10wUw3N_R-97" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=message;strokeColor=#000000;fillColor=#FFE599;" vertex="1" parent="cVfscOrz7G8zu3GAqfnT-1">
+          <mxGeometry x="-790" y="-1720" width="20" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="Cnt2iavA0SB10wUw3N_R-99" value="" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=16;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-15" y="-1695" as="sourcePoint" />
+            <mxPoint x="-450.3333333333335" y="-1695" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cnt2iavA0SB10wUw3N_R-104" value="BIE вычитывает из очереди&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Cnt2iavA0SB10wUw3N_R-99">
+          <mxGeometry x="0.0438" relative="1" as="geometry">
+            <mxPoint x="2.14" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cnt2iavA0SB10wUw3N_R-102" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=16;" vertex="1" parent="cVfscOrz7G8zu3GAqfnT-1">
+          <mxGeometry x="-15" y="-1705" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cnt2iavA0SB10wUw3N_R-103" value="&lt;span style=&quot;font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; background-color: rgb(40 , 40 , 40)&quot;&gt;&lt;font color=&quot;#00ff00&quot;&gt;GET&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; background-color: rgb(40 , 40 , 40)&quot;&gt;/topic/:topicId/event&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=16;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1" target="Cnt2iavA0SB10wUw3N_R-102" source="Cnt2iavA0SB10wUw3N_R-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="-1740" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="40" y="-1740" />
+              <mxPoint x="40" y="-1705" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cnt2iavA0SB10wUw3N_R-15" value="&lt;font color=&quot;#ffff00&quot;&gt;&amp;nbsp;POST &lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt;Event Order Information&lt;/font&gt;&lt;font color=&quot;#ffff00&quot;&gt;&amp;nbsp;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;fontColor=#000000;labelBackgroundColor=#000000;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1">
+          <mxGeometry x="0.054" width="80" relative="1" as="geometry">
+            <mxPoint x="20" y="-1530" as="sourcePoint" />
+            <mxPoint x="399.49999999999955" y="-1530" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cnt2iavA0SB10wUw3N_R-105" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeColor=#000000;fillColor=#FFE599;fontColor=#000000;" vertex="1" parent="cVfscOrz7G8zu3GAqfnT-1">
+          <mxGeometry x="-15" y="-1589" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cnt2iavA0SB10wUw3N_R-106" value="&lt;span style=&quot;font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;&lt;font color=&quot;#ffff33&quot;&gt;POST&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt; /topic&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;/:topicId&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;/event(productOffering (params), priority,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;event-type=getOffersResults, session ID, TaskName&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;)&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1">
+          <mxGeometry x="0.0028" relative="1" as="geometry">
+            <mxPoint x="-20.5" y="-1574" as="sourcePoint" />
+            <mxPoint x="-452.8333333333321" y="-1574" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cnt2iavA0SB10wUw3N_R-110" value="" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=16;exitX=0.981;exitY=0.706;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1" source="Cnt2iavA0SB10wUw3N_R-108" target="Cnt2iavA0SB10wUw3N_R-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-750" y="-1550" as="sourcePoint" />
+            <mxPoint x="-750.0033333333336" y="-1520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cnt2iavA0SB10wUw3N_R-111" value="HUB вычитывает из очереди&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Cnt2iavA0SB10wUw3N_R-110">
+          <mxGeometry x="0.0438" relative="1" as="geometry">
+            <mxPoint x="2.14" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cnt2iavA0SB10wUw3N_R-112" value="&lt;span style=&quot;font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;&lt;font color=&quot;#ffff33&quot;&gt;POST&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt; /topic&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;/:topicId&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;/event(productOffering (params), priority,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;event-type=getOffersResults, session ID, TaskName&lt;/span&gt;&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12px ; text-align: left ; background-color: rgb(40 , 40 , 40)&quot;&gt;)&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;exitX=-0.046;exitY=0.797;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="cVfscOrz7G8zu3GAqfnT-1" source="Cnt2iavA0SB10wUw3N_R-108" target="Cnt2iavA0SB10wUw3N_R-5">
+          <mxGeometry x="0.0028" relative="1" as="geometry">
+            <mxPoint x="-770" y="-1559" as="sourcePoint" />
+            <mxPoint x="-1202.3333333333321" y="-1559" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
