@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T09:18:52.837Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.345" etag="HDWWu__BemcxRh9ytB2q" version="14.2.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-02-02T11:25:58.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.345" etag="uFrDYd0X44Z9b6UMS82m" version="14.2.9" type="github" pages="5">
   <diagram id="ampolG_5GsY7RyZEAxuc" name="Page-1">
-    <mxGraphModel dx="4211" dy="3308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3712" dy="3027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1854,7 +1854,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EN9lDd2aieEtxCMd-Sbw" name="Управление событиями">
-    <mxGraphModel dx="4076" dy="4865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2668" dy="4074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="8DdqfKzNtc_-ZQo4FAjK-0" />
         <mxCell id="8DdqfKzNtc_-ZQo4FAjK-1" parent="8DdqfKzNtc_-ZQo4FAjK-0" />
@@ -2344,7 +2344,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-x8_kCOqyb_qaW1zl-dI" name="Публикация процесса в BIE">
-    <mxGraphModel dx="3447" dy="1006" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2516" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="mfL9-mDKVU9Kelx8QAt1-0" />
         <mxCell id="mfL9-mDKVU9Kelx8QAt1-1" parent="mfL9-mDKVU9Kelx8QAt1-0" />
@@ -2391,27 +2391,39 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fB2MyytxYbiigUSOkKdD" name="Проработка микросервиса">
-    <mxGraphModel dx="2038" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2516" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="CPAw56iBEMgzodOpvimm-0" />
         <mxCell id="CPAw56iBEMgzodOpvimm-1" parent="CPAw56iBEMgzodOpvimm-0" />
-        <mxCell id="ZFNq2oM7PCRPFJ9PvxoC-0" value="Микросервис Витрина" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;verticalAlign=top;align=left;" vertex="1" parent="CPAw56iBEMgzodOpvimm-1">
-          <mxGeometry x="-700" y="60" width="610" height="175" as="geometry" />
+        <mxCell id="ZFNq2oM7PCRPFJ9PvxoC-0" value="Микросервис MPC" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;verticalAlign=top;align=left;fontSize=14;fontStyle=1" vertex="1" parent="CPAw56iBEMgzodOpvimm-1">
+          <mxGeometry x="-780" y="40" width="610" height="370" as="geometry" />
         </mxCell>
         <mxCell id="ZFNq2oM7PCRPFJ9PvxoC-1" value="" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="ZFNq2oM7PCRPFJ9PvxoC-0">
-          <mxGeometry width="600" height="175" as="geometry" />
+          <mxGeometry width="600" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFNq2oM7PCRPFJ9PvxoC-4" value="" style="startArrow=oval;startFill=0;startSize=7;endArrow=block;endFill=0;endSize=10;dashed=1;html=1;" edge="1" parent="ZFNq2oM7PCRPFJ9PvxoC-0" source="ZFNq2oM7PCRPFJ9PvxoC-3" target="ZFNq2oM7PCRPFJ9PvxoC-2">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="350.18518518518516" y="324.390243902439" as="sourcePoint" />
+            <mxPoint x="425.4938271604938" y="324.390243902439" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFNq2oM7PCRPFJ9PvxoC-3" value="SubscriptionManager" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="ZFNq2oM7PCRPFJ9PvxoC-0">
+          <mxGeometry x="40" y="120" width="250" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZFNq2oM7PCRPFJ9PvxoC-2" value="EventBus client&lt;br&gt;(SubscriptionManager,&lt;br&gt;UniqQueueName)" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="ZFNq2oM7PCRPFJ9PvxoC-0">
-          <mxGeometry x="449.47368421052636" y="93.9" width="130.0263157894737" height="72.35" as="geometry" />
+          <mxGeometry x="390" y="120" width="210" height="91.5" as="geometry" />
         </mxCell>
-        <mxCell id="ZFNq2oM7PCRPFJ9PvxoC-3" value="BPMN-like Engine&lt;br&gt;(i.e. Workflow suite 2)" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="CPAw56iBEMgzodOpvimm-1">
-          <mxGeometry x="-520.0031578947369" y="240" width="162.73087719298246" height="110.98" as="geometry" />
+        <mxCell id="IeWFVSYrwwHkE-nkbEM5-0" value="MPC" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;verticalAlign=top;align=left;fontSize=14;fontStyle=1" vertex="1" parent="CPAw56iBEMgzodOpvimm-1">
+          <mxGeometry x="220" y="150" width="340" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ZFNq2oM7PCRPFJ9PvxoC-4" value="" style="startArrow=oval;startFill=0;startSize=7;endArrow=block;endFill=0;endSize=10;dashed=1;html=1;exitX=1.019;exitY=0.507;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.005;entryY=0.449;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="CPAw56iBEMgzodOpvimm-1" source="ZFNq2oM7PCRPFJ9PvxoC-3" target="ZFNq2oM7PCRPFJ9PvxoC-2">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="-349.81481481481484" y="384.390243902439" as="sourcePoint" />
-            <mxPoint x="-274.5061728395062" y="384.390243902439" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="IeWFVSYrwwHkE-nkbEM5-1" value="" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="IeWFVSYrwwHkE-nkbEM5-0">
+          <mxGeometry width="334.4262295081967" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="IeWFVSYrwwHkE-nkbEM5-5" value="&lt;span style=&quot;font-size: 14px; text-align: center;&quot;&gt;Event HUB&lt;/span&gt;" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;verticalAlign=top;align=left;fontSize=14;fontStyle=1" vertex="1" parent="CPAw56iBEMgzodOpvimm-1">
+          <mxGeometry x="-1560" y="140" width="340" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="IeWFVSYrwwHkE-nkbEM5-6" value="" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="IeWFVSYrwwHkE-nkbEM5-5">
+          <mxGeometry width="334.4262295081967" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
