@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T11:56:59.204Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="5z4SlmF2XIm8Mp-02Pl2" version="14.2.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-02-03T12:00:38.702Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="p8mfqHwh-fVfnehFViE4" version="14.2.7" type="github" pages="8">
   <diagram id="ampolG_5GsY7RyZEAxuc" name="Page-1">
     <mxGraphModel dx="3903" dy="3051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3410,8 +3410,8 @@
             <mxPoint y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V_CdNg3LXXQvpE84qPm8-50" value="CX Platform - платформа предоставляющая возможность централизованного&lt;br&gt;&amp;nbsp;хранения клиентского опыта, с целью обеспечить наблюдение &lt;br&gt;за бизнес-процессом на всех его шагах его выполнения, сбора и анализ метрик, &lt;br&gt;для гармоничного влияние на развитие процессов" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=21;html=1;" vertex="1" parent="vdDSbB3JJmPneUd0aDF2-1">
-          <mxGeometry x="441" y="40" width="800" height="110" as="geometry" />
+        <mxCell id="V_CdNg3LXXQvpE84qPm8-50" value="CX Platform - платформа предоставляющая возможность централизованного&lt;br&gt;&amp;nbsp;хранения клиентского опыта, с целью обеспечить наблюдение &lt;br&gt;за бизнес-процессом на всех его шагах его выполнения(или исполнения),&lt;br&gt;&amp;nbsp;сбора и анализ метрик, &lt;br&gt;для оказания влияния на их гармоничное развитие" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=21;html=1;" vertex="1" parent="vdDSbB3JJmPneUd0aDF2-1">
+          <mxGeometry x="456" y="30" width="770" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
