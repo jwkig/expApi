@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T13:57:15.782Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="BEc2S1cLsLSB-OvrDT6M" version="14.5.6" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-04-08T13:57:42.640Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="cgMChlSfiKLLmb8tvGoM" version="14.5.6" type="github" pages="9">
   <diagram id="ampolG_5GsY7RyZEAxuc" name="Page-1">
     <mxGraphModel dx="3343" dy="2788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4173,7 +4173,7 @@
         <mxCell id="wGz68kYcY7-PPjN2mJU2-92" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vdDSbB3JJmPneUd0aDF2-1">
           <mxGeometry x="470" y="640" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wGz68kYcY7-PPjN2mJU2-93" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Тостая витрина&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vdDSbB3JJmPneUd0aDF2-1">
+        <mxCell id="wGz68kYcY7-PPjN2mJU2-93" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Толстая витрина&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vdDSbB3JJmPneUd0aDF2-1">
           <mxGeometry x="57.5" y="410" width="295" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wGz68kYcY7-PPjN2mJU2-94" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Тонкая витрина&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vdDSbB3JJmPneUd0aDF2-1">
