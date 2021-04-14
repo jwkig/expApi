@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T12:12:55.099Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="EDpgEJ-jr3pBIS7nKBjx" version="14.5.8" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-04-14T12:13:58.123Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="anaE5MO1YrYRU4WYUUYs" version="14.5.8" type="github" pages="9">
   <diagram id="ampolG_5GsY7RyZEAxuc" name="Page-1">
     <mxGraphModel dx="3903" dy="3100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3834,8 +3834,8 @@
         <mxCell id="V_CdNg3LXXQvpE84qPm8-15" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="vdDSbB3JJmPneUd0aDF2-1" vertex="1">
           <mxGeometry x="435" y="673" width="380" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="V_CdNg3LXXQvpE84qPm8-16" value="eSim c MNP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="vdDSbB3JJmPneUd0aDF2-1" vertex="1">
-          <mxGeometry x="465" y="683" width="80" height="20" as="geometry" />
+        <mxCell id="V_CdNg3LXXQvpE84qPm8-16" value="сценарий eSim c MNP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="vdDSbB3JJmPneUd0aDF2-1" vertex="1">
+          <mxGeometry x="435" y="683" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="V_CdNg3LXXQvpE84qPm8-17" value="проверка в mnp gate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="vdDSbB3JJmPneUd0aDF2-1" vertex="1">
           <mxGeometry x="685" y="703" width="120" height="60" as="geometry" />
@@ -3873,8 +3873,8 @@
         <mxCell id="V_CdNg3LXXQvpE84qPm8-42" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="vdDSbB3JJmPneUd0aDF2-1" vertex="1">
           <mxGeometry x="15" y="740" width="380" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="V_CdNg3LXXQvpE84qPm8-43" value="eSim c MNP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="vdDSbB3JJmPneUd0aDF2-1" vertex="1">
-          <mxGeometry x="45" y="750" width="80" height="20" as="geometry" />
+        <mxCell id="V_CdNg3LXXQvpE84qPm8-43" value="сценарий eSim c MNP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="vdDSbB3JJmPneUd0aDF2-1" vertex="1">
+          <mxGeometry x="15" y="750" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="V_CdNg3LXXQvpE84qPm8-44" value="проверка в mnp gate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="vdDSbB3JJmPneUd0aDF2-1" vertex="1">
           <mxGeometry x="265" y="770" width="120" height="60" as="geometry" />
@@ -3930,8 +3930,8 @@
         <mxCell id="wGz68kYcY7-PPjN2mJU2-27" value="MNP gate" style="rounded=0;whiteSpace=wrap;html=1;" parent="vdDSbB3JJmPneUd0aDF2-1" vertex="1">
           <mxGeometry x="705" y="833" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wGz68kYcY7-PPjN2mJU2-33" value="eSim c MNP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="vdDSbB3JJmPneUd0aDF2-1" vertex="1">
-          <mxGeometry x="50" y="489" width="80" height="20" as="geometry" />
+        <mxCell id="wGz68kYcY7-PPjN2mJU2-33" value="сценарий eSim c MNP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="vdDSbB3JJmPneUd0aDF2-1" vertex="1">
+          <mxGeometry x="20" y="489" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wGz68kYcY7-PPjN2mJU2-40" value="" style="endArrow=classic;html=1;fillColor=#ffffff;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.237;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" parent="vdDSbB3JJmPneUd0aDF2-1" source="V_CdNg3LXXQvpE84qPm8-38" target="wGz68kYcY7-PPjN2mJU2-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
