@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-22T12:56:50.124Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="jpM1h03cv0LK70dTWbQS" version="14.6.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-04-23T07:25:04.573Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="8_W0wUXNo6R-R-5vq1QG" version="14.6.2" type="github" pages="10">
   <diagram id="ampolG_5GsY7RyZEAxuc" name="Page-1">
     <mxGraphModel dx="4512" dy="3427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4419,7 +4419,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ofda8QW6MzBOwDfyfVEq" name="компонентная схема">
-    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="jGMg7NHjYMcHu1dc0ebz-0" />
         <mxCell id="jGMg7NHjYMcHu1dc0ebz-1" parent="jGMg7NHjYMcHu1dc0ebz-0" />
@@ -4468,17 +4468,17 @@
         <mxCell id="nx2376NG093PwjQ6dVfv-20" value="ЦФК" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jGMg7NHjYMcHu1dc0ebz-1">
           <mxGeometry x="20" y="100" width="380" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MIL3vSJynHs1j_6FMJ2Z-3" value="&lt;b&gt;Оркестратор (Workflow)&lt;br&gt;&lt;/b&gt;- содержит реестр бизнес процессов&lt;br&gt;- содержит описание бизнес взаимодействий&amp;nbsp;&lt;br&gt;- исполняет бизнес процессы&amp;nbsp;&lt;br&gt;- генерирует события для функциональных компонентов, &lt;br&gt;&amp;nbsp; &amp;nbsp;участвующих в бизнес процессе&lt;br&gt;- обрабатывает события пришедшие от функциональных&lt;br&gt;&amp;nbsp; &amp;nbsp; компонентов,&amp;nbsp;участвующих в бизнес процессе" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="jGMg7NHjYMcHu1dc0ebz-1">
-          <mxGeometry x="440" y="220" width="340" height="120" as="geometry" />
+        <mxCell id="MIL3vSJynHs1j_6FMJ2Z-3" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;Оркестратор (Workflow)&lt;br&gt;&lt;/b&gt;- содержит реестр бизнес процессов&lt;br&gt;- содержит описание бизнес взаимодействий&amp;nbsp;&lt;br&gt;- исполняет бизнес процессы&amp;nbsp;&lt;br&gt;- генерирует события для функциональных компонентов, &lt;br&gt;&amp;nbsp; &amp;nbsp;участвующих в бизнес процессе&lt;br&gt;- обрабатывает события пришедшие от функциональных&lt;br&gt;&amp;nbsp; &amp;nbsp; компонентов,&amp;nbsp;участвующих в бизнес процессе&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="jGMg7NHjYMcHu1dc0ebz-1">
+          <mxGeometry x="414" y="188" width="420" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="MIL3vSJynHs1j_6FMJ2Z-5" value="&lt;b&gt;EventBus &lt;/b&gt;- шина доставки событий, работающая&lt;br&gt;по принципу публикации/подписки (интеграционная&lt;br&gt;платформа)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="jGMg7NHjYMcHu1dc0ebz-1">
-          <mxGeometry x="440" y="340" width="300" height="50" as="geometry" />
+        <mxCell id="MIL3vSJynHs1j_6FMJ2Z-5" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;EventBus &lt;/b&gt;- шина доставки событий, работающая&lt;br&gt;по принципу публикации/подписки (интеграционная&lt;br&gt;платформа)&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="jGMg7NHjYMcHu1dc0ebz-1">
+          <mxGeometry x="414" y="330" width="380" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MIL3vSJynHs1j_6FMJ2Z-6" value="&lt;b&gt;microService N&lt;/b&gt; - функциональный блок процесса, &lt;br&gt;предоставляющий бизнес логику для реализации&lt;br&gt;бизнес взаимодействий" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="jGMg7NHjYMcHu1dc0ebz-1">
-          <mxGeometry x="440" y="390" width="300" height="50" as="geometry" />
+        <mxCell id="MIL3vSJynHs1j_6FMJ2Z-6" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;microService N&lt;/b&gt; - функциональный блок процесса, &lt;br&gt;предоставляющий бизнес логику для реализации&lt;br&gt;бизнес взаимодействий&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="jGMg7NHjYMcHu1dc0ebz-1">
+          <mxGeometry x="414" y="390" width="370" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MIL3vSJynHs1j_6FMJ2Z-7" value="&lt;b&gt;Platform N -&lt;/b&gt; платформа, предоставляющая функционал&lt;br&gt;для соответствующего бизнес взаимодействия" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="jGMg7NHjYMcHu1dc0ebz-1">
-          <mxGeometry x="440" y="440" width="330" height="30" as="geometry" />
+        <mxCell id="MIL3vSJynHs1j_6FMJ2Z-7" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;Platform N -&lt;/b&gt; платформа, предоставляющая функционал&lt;br&gt;для соответствующего бизнес взаимодействия&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="jGMg7NHjYMcHu1dc0ebz-1">
+          <mxGeometry x="414" y="458" width="410" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HtSoPWFLV6gtpXALxMC9-0" value="&lt;span&gt;Event Bus&lt;/span&gt;&lt;br&gt;&lt;span&gt;(publish/subscribe)&lt;br&gt;&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="jGMg7NHjYMcHu1dc0ebz-1">
           <mxGeometry x="70" y="280" width="310" height="40" as="geometry" />
@@ -4607,8 +4607,8 @@
             <mxPoint x="214.01" y="70.36000000000013" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nx2376NG093PwjQ6dVfv-22" value="&lt;b&gt;EventHUB&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;- шлюз взаимодействия витрины с&amp;nbsp;&lt;br&gt;Interaction&amp;nbsp;Layer&amp;nbsp;&lt;br&gt;- регистрирует витрину в системе&lt;br&gt;&amp;nbsp;(прописывает endpoint&amp;nbsp;для обратных вызовов)&amp;nbsp;&lt;br&gt;- подписывает витрину на события возникающие в БП&amp;nbsp;&lt;br&gt;- отправляет события сформированные витриной в EventBus&lt;br&gt;- передает события пришедшие из EventBus на витрину" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="jGMg7NHjYMcHu1dc0ebz-1">
-          <mxGeometry x="440" y="100" width="360" height="120" as="geometry" />
+        <mxCell id="nx2376NG093PwjQ6dVfv-22" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;EventHUB&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;- шлюз взаимодействия витрины с&amp;nbsp;&lt;br&gt;Interaction&amp;nbsp;Layer&amp;nbsp;&lt;br&gt;- регистрирует витрину в системе&lt;br&gt;&amp;nbsp;(прописывает endpoint&amp;nbsp;для обратных вызовов)&amp;nbsp;&lt;br&gt;- подписывает витрину на события возникающие в БП&amp;nbsp;&lt;br&gt;- отправляет события сформированные витриной в EventBus&lt;br&gt;- передает события пришедшие из EventBus на витрину&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="jGMg7NHjYMcHu1dc0ebz-1">
+          <mxGeometry x="414" y="38" width="440" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
